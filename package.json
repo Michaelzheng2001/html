@@ -1,0 +1,19 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "courswork",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michaelzheng2001/html.git"
+  },
+  "author": "Wenbo Zheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Michaelzheng2001/html/issues"
+  },
+  "homepage": "https://github.com/Michaelzheng2001/html#readme"
+}
